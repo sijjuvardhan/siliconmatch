@@ -1,0 +1,6 @@
+{
+  "int_add_avg": 0.573028,
+  "float_mul_avg": 0.035918,
+  "memory_access_avg": 0.295943,
+  "branching_avg": 0.092417
+}
